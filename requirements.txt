@@ -1,0 +1,2 @@
+# Optional: only needed for the LLM-written summary (python run.py works without it)
+anthropic>=0.40
